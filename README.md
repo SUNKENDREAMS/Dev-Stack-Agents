@@ -1,7 +1,6 @@
 # The Principal Agent Collection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Welcome to a curated collection of **50 principal-level AI agents**, designed to function as a world-class, multi-disciplinary team of virtual experts. Each agent embodies the knowledge, principles, and strategic thinking of a senior leader in their respective field.
 
